@@ -11,7 +11,7 @@ Requires OrcaSlicer 2.5 alpha, or a nightly newer than 2.4.2.
 Pick one:
 
 - In OrcaSlicer, open the Plugins window, choose **Browse plugins ▸ Install local plugin**,
-  and pick `support_probe.py`.
+  and pick `support_probe_win_x86_64.py`.
 - Or copy this folder to `%APPDATA%\OrcaSlicer\orca_plugins\support_probe\`, then
   reload it from the Plugins window (right-click ▸ Reload) or restart OrcaSlicer.
 
